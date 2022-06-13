@@ -2,7 +2,7 @@
 <h1 align="center">Ubuntu on Android</h1>
 
 <h5 align="center">Menjalankan Operating Sistem Ubuntu di ekosistem Chroot. Perhatikan , ini bukan emulator! tapi ini adalah real Ubuntu OS yang sama seperti PC version.
-anda Bisa Menjalankan Aplikasi sama seperti di PC version. mungkkin beberapa aplikasi mengalami error tapi ini jarang terjadi</h3>
+anda Bisa Menjalankan Aplikasi seperti di PC version</h5>
 
 ## Requirements
 
