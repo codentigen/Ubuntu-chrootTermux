@@ -17,7 +17,7 @@ anda Bisa Menjalankan Aplikasi yang sama seperti di PC version</h5>
 
 ## Installation
 
-Buka Termux lalu Jalankan perintah di bawah ini :
+Buka Termux lalu Jalankan perintah di bawah :
 
 ```bash
   -$ su
