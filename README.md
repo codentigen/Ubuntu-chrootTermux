@@ -1,7 +1,7 @@
 
 <h6 align="center">Built with ❤️ by Eos Ageng</h6>
 <h1 align="center">Ubuntu on Android</h1>
-<h5 align="center">Menjalankan Operating Sistem Ubuntu di ekosistem Chroot. Perhatikan , ini bukan emulator! tapi ini adalah real Ubuntu OS yang sama seperti Desktop. saya membuat ini sesimple mungkin , agar pengguna dapat menghemat waktu dan tentunya mudah kalian pahami. jika ada BUG atau error silahkan e-mail ke saya.
+<h5 align="center">Menjalankan Operating Sistem Ubuntu di ekosistem Chroot. Perhatikan , ini bukan emulator! tapi ini adalah real Ubuntu OS yang sama seperti Desktop.saya membuat ini sesimple mungkin , agar pengguna dapat menghemat waktu dan tentunya mudah kalian pahami. jika ada BUG atau error silahkan e-mail ke saya.
 anda Bisa Menjalankan Aplikasi yang sama seperti di PC version</h5>
 
 ##
