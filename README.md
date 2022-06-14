@@ -12,8 +12,7 @@ anda Bisa Menjalankan Aplikasi yang sama seperti di PC version</h5>
  - ARM/AARCH 64-bit (Lebih Disarankan)
  - RAM 2GB
  - Root Magisk OR any & Busybox
- - [Termux](https://github.com/termux/termux-app/releases/tag/v0.118.0) / [NetHunter Terminal](https://store.nethunter.com/repo/com.offsec.nhterm_2020040100.apk)
-
+ - [Termux](https://github.com/termux/termux-app/releases/tag/v0.118.0)
 
 ## Installation
 
