@@ -21,7 +21,7 @@ Buka Termux lalu Jalankan perintah di bawah :
 
 ```bash
   -$ su
-  :# cd /sdcard/Download(path Download Ubuntu.tar.xz)
+  :# cd /sdcard/Download
   :# tar -xvf -C Ubuntu.tar.xz /sdcard
   :# cd ..
   :# sh install Ubuntu-21.04.sh
