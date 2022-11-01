@@ -1,7 +1,7 @@
 
 <h6 align="center">Built with ❤️ by Eos Ageng</h6>
 <h1 align="center">Ubuntu on Android</h1>
-<h5 align="center">Menjalankan Operating Sistem Ubuntu di ekosistem Chroot. Perhatikan , ini bukan emulator! tapi ini adalah real Ubuntu OS yang sama seperti Desktop.
+<h5 align="center">Menjalankan Operating Sistem Ubuntu di ekosistem Chroot. Perhatikan , ini bukan emulator! tapi ini adalah nativr Ubuntu OS beebasis arm.
 anda Bisa Menjalankan Aplikasi yang sama seperti di PC version</h5>
 
 ##
@@ -20,11 +20,11 @@ Buka Termux lalu Jalankan perintah di bawah :
 
 ```bash
   -$ su
-  :# cd /sdcard/Download
-  :# tar -xvf -C UbuntuHH.tar.xz /sdcard
-  :# cd ..
-  :# sh install Ubuntu-21.04.sh.x
-  :# sh start.sh.x
+
+
+
+  :# sh install.sh
+  :# sh start.sh
 ```
 
 ## Screenshots
