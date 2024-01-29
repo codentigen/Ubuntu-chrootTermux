@@ -10,7 +10,7 @@
  - Android 8+
  - ARM 64-bit (Lebih Disarankan)
  - RAM 2GB
- - Root [Magisk](https://github.com/topjohnwu/Magisk) & [Busybox](https://github.com/Magisk-Modules-Repo/busybox-ndk)
+ - Root [Magisk](https://github.com/topjohnwu/Magisk) & Install [Busybox](https://github.com/Magisk-Modules-Repo/busybox-ndk)
  - [Termux](https://github.com/termux/termux-app/releases/tag/v0.118.0)
 
 ## Installation
