@@ -8,9 +8,9 @@
 ## Requirements
 
  - Android 8+
- - ARM/AARCH 64-bit (Lebih Disarankan)
+ - ARM 64-bit (Lebih Disarankan)
  - RAM 2GB
- - Root Magisk OR any & Busybox
+ - Root Magisk & Busybox
  - [Termux](https://github.com/termux/termux-app/releases/tag/v0.118.0)
 
 ## Installation
